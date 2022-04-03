@@ -15,6 +15,16 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
+<h1>Statistics</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-remizowa)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anna-remizowa&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anna-remizowa&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anna-remizowa&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anna-remizowa&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anna-remizowa&theme=solarized_dark)
+
 <!--
 **anna-remizowa/anna-remizowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
