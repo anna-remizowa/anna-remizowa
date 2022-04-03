@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anna
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a full-stack developer. 🔭 I’m currently working on small pet projects in front and java. </h3>
+<h3 align="center">I'm a full-stack developer. 🔭 I’m currently working on small pet projects on react and java. </h3>
 </br>
 <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /></div>
 
